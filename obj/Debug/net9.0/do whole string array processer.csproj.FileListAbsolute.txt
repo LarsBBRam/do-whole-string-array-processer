@@ -1,0 +1,14 @@
+D:\Kodehode\koding\C#\microsoft learn\do whole string array processer\bin\Debug\net9.0\do whole string array processer.exe
+D:\Kodehode\koding\C#\microsoft learn\do whole string array processer\bin\Debug\net9.0\do whole string array processer.deps.json
+D:\Kodehode\koding\C#\microsoft learn\do whole string array processer\bin\Debug\net9.0\do whole string array processer.runtimeconfig.json
+D:\Kodehode\koding\C#\microsoft learn\do whole string array processer\bin\Debug\net9.0\do whole string array processer.dll
+D:\Kodehode\koding\C#\microsoft learn\do whole string array processer\bin\Debug\net9.0\do whole string array processer.pdb
+D:\Kodehode\koding\C#\microsoft learn\do whole string array processer\obj\Debug\net9.0\do whole string array processer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodehode\koding\C#\microsoft learn\do whole string array processer\obj\Debug\net9.0\do whole string array processer.AssemblyInfoInputs.cache
+D:\Kodehode\koding\C#\microsoft learn\do whole string array processer\obj\Debug\net9.0\do whole string array processer.AssemblyInfo.cs
+D:\Kodehode\koding\C#\microsoft learn\do whole string array processer\obj\Debug\net9.0\do whole string array processer.csproj.CoreCompileInputs.cache
+D:\Kodehode\koding\C#\microsoft learn\do whole string array processer\obj\Debug\net9.0\do whole string array processer.dll
+D:\Kodehode\koding\C#\microsoft learn\do whole string array processer\obj\Debug\net9.0\refint\do whole string array processer.dll
+D:\Kodehode\koding\C#\microsoft learn\do whole string array processer\obj\Debug\net9.0\do whole string array processer.pdb
+D:\Kodehode\koding\C#\microsoft learn\do whole string array processer\obj\Debug\net9.0\do whole string array processer.genruntimeconfig.cache
+D:\Kodehode\koding\C#\microsoft learn\do whole string array processer\obj\Debug\net9.0\ref\do whole string array processer.dll
